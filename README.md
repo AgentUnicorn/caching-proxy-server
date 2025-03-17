@@ -3,7 +3,7 @@
 A simple caching proxy server written in Rust that forwards incoming requests to an origin server, caches the response, and returns the cached response if the same request is made again.
 
 ## Project Page
-[GitHub Repository](https://github.com/AgentUnicorn/caching-proxy-server)
+[Project Page on Roadmap.sh](https://roadmap.sh/projects/caching-server)
 
 ## Features
 - Caches responses based on URL paths.
